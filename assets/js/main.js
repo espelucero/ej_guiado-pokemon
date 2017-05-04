@@ -1,4 +1,4 @@
-function Pokemon(nombre,color){
+function Pokemon(nombre,color, poderDeAtaque){
 	this.nombre = nombre;
 	this.color = color;
 
